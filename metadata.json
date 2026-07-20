@@ -1,0 +1,6 @@
+{
+  "name": "Investment Management Tool",
+  "description": "A comprehensive investment management tool that generates personalized, goal-based investment plans, calculating risk profiles, geographic tilts, and creating time-varying asset allocation glide paths.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
